@@ -10,7 +10,12 @@ ChatGPT is a Python-based chatbot that uses OpenAI's GPT-3 API to generate respo
   pip install openai
 ```
 
-2. Set up your OpenAI API key by replacing the `api_key` variable in the code with your actual API key.
+2. Set up your OpenAI API key by replacing the `api_key` variable in the code with your actual API key .
+
+```python
+  API_KEY = 'YOUR_API_KEY'  # Replace with your actual API key
+```
+3. To get the OpenAI API key key [Visit OpenAI's website](https://platform.openai.com/account/api-keys "OpenAI Website")
 
 ## Usage
 
